@@ -1,0 +1,606 @@
+<li>
+            <div class="doctor1">
+                <div class="color">
+                </div>
+                <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+                
+                <div class="info">
+                    Dr. Kailash A Jain <br>
+                    MBBS, MD General Medicine <br>
+                    Cardiologist
+                </div>
+                
+                
+                    <!-- Book Appointment -->
+                    <form action="/book1" method="POST">
+                        <label for="name1"></label>
+                        <input type="hidden" name="name" value="Dr.Kailash A Jain" id="name1">
+                        <label for="sp1"></label>
+                        <input type="hidden" name="speciality" value="Cardiologist" id="sp1">
+                        <!-- <input type="submit" value="Book Appointment"> -->
+                        <div class="book">
+                            
+                            <button type="submit" value="Book Appointment" class="submit">
+                                <!-- <div class="book"> -->
+                                    Book Appointment
+                                <!-- </div> -->
+                            </div>
+                            <!-- <a href="/appointment2">Book Appointment</a> -->
+                        </button>
+
+                    </form>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+
+                    
+                
+
+                
+            </div>
+           </li>
+            
+        
+        <li>
+
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Ghayoor Ahmed <br>
+                MBBS, MD General Medicine <br>
+                Cardiologist
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Ghayoor Ahmed" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Cardiologist" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Aisha Patel <br>
+                MBBS, MD General Medicine <br>
+                Gastoenterologist
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Aisha Patel" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Gastoenterologist" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Sameera Khan<br>
+                MBBS, MD General Medicine <br>
+                Gastoenterologist
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Sameera Khan" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Gastoenterologist" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Ravi Sharma <br>
+                MBBS, MD General Medicine <br>
+                Orthopaedic
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Ravi Sharma" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Orthopaedic" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Ananya Singh <br>
+                MBBS, MD General Medicine <br>
+                Orthopaedic
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Ananya Singh" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Orthopaedic" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Maya Patel <br>
+                MBBS, MD General Medicine <br>
+                Dermatology
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Maya Patel" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Dermatology" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Rohn Shah <br>
+                MBBS, MD General Medicine <br>
+                Dermatology
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Rohn Shah" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Dermatology" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Rahul Singh <br>
+                MBBS, MD General Medicine <br>
+                Pulmonology
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Rahul Singh" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Pulmonology" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Priya Sharma <br>
+                MBBS, MD General Medicine <br>
+                Pulmonology
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Priya Sharma" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Pulmonology" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Vikram Singh <br>
+                MBBS, MD General Medicine <br>
+                Liver Transplant
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Vikram Singh" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Liver Transplant" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+        </li>
+
+        <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Natasha Gupta <br>
+                MBBS, MD General Medicine <br>
+                Liver Transplant
+            </div>
+
+           <form action="/book1" method="POST">
+                        <label for="name1"></label>
+                        <input type="hidden" name="name" value="Dr.Natasha Gupta" id="name1">
+                        <label for="sp1"></label>
+                        <input type="hidden" name="speciality" value="Liver Transplant" id="sp1">
+                        <!-- <input type="submit" value="Book Appointment"> -->
+                        <div class="book">
+                            
+                            <button type="submit" value="Book Appointment" class="submit">
+                                <!-- <div class="book"> -->
+                                    Book Appointment
+                                <!-- </div> -->
+                            </div>
+                            <!-- <a href="/appointment2">Book Appointment</a> -->
+                        </button>
+
+                    </form>
+        </div>
+    </li>
+
+
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Neha Sharma <br>
+                MBBS, MD General Medicine <br>
+                Pain Management
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Neha Sharma" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Pain Management" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+    
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Rajesh Kumar <br>
+                MBBS, MD General Medicine <br>
+                Pain Management
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Rajesh Kumar" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Pain Management" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Vikram Patel <br>
+                MBBS, MD General Medicine <br>
+                Maxillofacial and Dental Surgery
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Vikram Patel" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Maxillofacial and Dental Surgery" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Priya Sharma<br>
+                MBBS, MD General Medicine <br>
+                Maxillofacial and Dental Surgery
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Priya Sharma" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="Maxillofacial and Dental Surgery" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr. Sanjay Patel<br>
+                MBBS, MD General Medicine <br>
+                ENT Head and Neck Surgery
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Sanjay Patel" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="ENT Head and Neck Surgery" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+
+    <li>
+        <div class="doctor1">
+            <div class="color">
+            </div>
+            <div class="circle"></div>
+                <i class="fa-solid fa-user-doctor"></i>
+
+            <div class="info">
+                Dr.Kunal Sharma<br>
+                MBBS, MD General Medicine <br>
+                ENT Head and Neck Surgery
+            </div>
+
+            <form action="/book1" method="POST">
+                <label for="name1"></label>
+                <input type="hidden" name="name" value="Dr.Kunal Sharma" id="name1">
+                <label for="sp1"></label>
+                <input type="hidden" name="speciality" value="ENT Head and Neck Surgery" id="sp1">
+                <!-- <input type="submit" value="Book Appointment"> -->
+                <div class="book">
+                    
+                    <button type="submit" value="Book Appointment" class="submit">
+                        <!-- <div class="book"> -->
+                            Book Appointment
+                        <!-- </div> -->
+                    </div>
+                    <!-- <a href="/appointment2">Book Appointment</a> -->
+                </button>
+
+            </form>
+        </div>
+    </li>
+
